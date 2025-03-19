@@ -1,7 +1,7 @@
 ___English__
 **Introduction**
 
-This code creates a voice-activated personal assistant named "Enola Holmes" and "Sherlock Holmes." The assistant listens to voice commands from the user and performs a range of tasks such as opening websites, checking the weather, and telling the time. Additionally, the assistant speaks back to the user and engages in a friendly, conversational manner.
+A voice-activated personal assistant named "Enola Holmes" and "Sherlock Holmes." The assistant listens to voice commands from the user and performs a range of tasks such as opening websites, checking the weather, and telling the time. Additionally, the assistant speaks back to the user and engages in a friendly, conversational manner.
 
  **Features of the Assistant**
 
@@ -59,7 +59,8 @@ ___ Bengali__
 
 **ভূমিকা**
 
-এই কোডটি একটি ভয়েস-ভিত্তিক পার্সোনাল অ্যাসিস্ট্যান্ট তৈরি করেছে যার নাম "এনোলা হোমস" এবং "শারলক হোমস"। এই অ্যাসিস্ট্যান্টটি আপনার কথা শুনে বিভিন্ন কাজ করতে পারে যেমন ওয়েবসাইট খোলা, আবহাওয়া জানা, বা বর্তমান সময় বলা। এটি আপনার সাথে বন্ধুত্বপূর্ণভাবে এবং কথোপকথনের মতো কথা বলে
+একটি ভয়েস-ভিত্তিক পার্সোনাল অ্যাসিস্ট্যান্ট যার নাম "এনোলা হোমস" এবং "শারলক হোমস"। এই অ্যাসিস্ট্যান্টটি আপনার কথা শুনে বিভিন্ন কাজ করতে পারে যেমন ওয়েবসাইট খোলা, আবহাওয়া জানা, বা বর্তমান সময় বলা। এটি আপনার সাথে বন্ধুত্বপূর্ণভাবে কথোপকথন করে|
+
 
 **অ্যাসিস্ট্যান্টের বৈশিষ্ট্যসমূহ**
 
